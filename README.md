@@ -12,6 +12,8 @@
 
 5) Retrive Objects 
 
+6) Embedded-Embeddable
+
 # Inheritance
 
 1) SingleTablePerClass
